@@ -1,0 +1,37 @@
+poppins 400 700 500
+roboto  400
+
+green #21B573;
+orange #FD511A
+black #000000
+
+ font-family: "Poppins", sans-serif;
+ font-family: "Roboto", sans-serif;
+
+
+            xxl-xl-lg      md       sm-col
+padding      100-120       80-100    50-70
+
+ spacing-margin-padding
+ alignment
+ order
+ size - fonts, item
+
+ 			xxl-xl-lg      md       sm-col
+
+ header----------
+ padding       15px       15px      5px
+
+ Banner----------
+ padd.bottom   65px       65px      60px
+ h1            48px       40px      30px
+
+ feature------------
+ c_p          100px       80px      60px
+ mt            45px       30px      30px
+ h2            24px       24px      24px
+ p             16px       16px      16px
+
+ course------------
+ h1            36px       30px      25px
+ h2            24px       24px      22px
